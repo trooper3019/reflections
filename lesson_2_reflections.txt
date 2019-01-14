@@ -1,0 +1,3 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+A: A .git repository allows for storage and version-control of new projects which may then be shared. It is necessary to have a repository to store multiple files of code that can be worked on along with version-control. 
