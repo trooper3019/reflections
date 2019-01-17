@@ -1,12 +1,15 @@
-Q: What happens when you initialize a repository? Why do you need to do it?
+Q1: What happens when you initialize a repository? Why do you need to do it?
 
-A: A .git repository allows for storage and version-control of new projects which may then be shared. It is necessary to have a repository to store multiple files of code that can be worked on along with version-control. 
+A1: A .git repository allows for storage and version-control of new projects which may then be shared. It is necessary to have a repository to store multiple files of code that can be worked on along with version-control. 
 
-Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+Q2: How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-A: The staging area allows for a separate space for files that are ready to be commited and added to the repository. The working area can hold files that are still being worked on and thus not ready to be saved into a version for example. 
+A2: The staging area allows for a separate space for files that are ready to be commited and added to the repository. The working area can hold files that are still being worked on and thus not ready to be saved into a version for example. 
 
-Q: How can you use the staging area to make sure you have one commit per logical change?
+Q3: How can you use the staging area to make sure you have one commit per logical change?
 
-A: The git add command allows for each commit to be done individually and with forethought; it is not automatically placed...
+A3: The git add command allows for each commit to be done individually and with forethought; it is not automatically placed...
 
+Q4: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A4: A variation of the original concept such as a version with a different language. If the master branch has not been fully refined, working on it in a language that is perhaps foreign to the programmer can be problematic.  
