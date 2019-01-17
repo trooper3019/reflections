@@ -6,3 +6,7 @@ Q: How is the staging area different from the working directory and the reposito
 
 A: The staging area allows for a separate space for files that are ready to be commited and added to the repository. The working area can hold files that are still being worked on and thus not ready to be saved into a version for example. 
 
+Q: How can you use the staging area to make sure you have one commit per logical change?
+
+A: The git add command allows for each commit to be done individually and with forethought; it is not automatically placed...
+
