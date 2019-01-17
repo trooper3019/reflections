@@ -12,4 +12,8 @@ A3: The git add command allows for each commit to be done individually and with 
 
 Q4: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-A4: A variation of the original concept such as a version with a different language. If the master branch has not been fully refined, working on it in a language that is perhaps foreign to the programmer can be problematic.  
+A4: A variation of the original concept such as a version with a different language. If the master branch has not been fully refined, working on it in a language that is perhaps foreign to the programmer can be problematic. 
+
+Q5: How do the diagrams help you visualize the branch structure?
+
+A4: Allows one to easily see how a new branch breaks the linear connection between commits and how it can be useful in  creating something new.  
