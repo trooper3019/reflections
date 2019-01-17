@@ -1,3 +1,8 @@
 Q: What happens when you initialize a repository? Why do you need to do it?
 
 A: A .git repository allows for storage and version-control of new projects which may then be shared. It is necessary to have a repository to store multiple files of code that can be worked on along with version-control. 
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A: The staging area allows for a separate space for files that are ready to be commited and added to the repository. The working area can hold files that are still being worked on and thus not ready to be saved into a version for example. 
+
