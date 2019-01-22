@@ -16,4 +16,13 @@ A4: A variation of the original concept such as a version with a different langu
 
 Q5: How do the diagrams help you visualize the branch structure?
 
-A4: Allows one to easily see how a new branch breaks the linear connection between commits and how it can be useful in  creating something new.  
+A5: Allows one to easily see how a new branch breaks the linear connection between commits and how it can be useful in  creating something new.  
+
+Q6: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A6: Automatic merging 
+	Pros: Conflict resolution is required so undesired results in the merge can easily be avoided. 
+
+	Cons: Conflict warnings can be time consuming if action needed results from a situation that wouldn't be problematic. 
+
+	
