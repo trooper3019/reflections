@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work
+local?
+
+Remote repos allow for other users on github to view and/or collaborate with a particular project(s). 
