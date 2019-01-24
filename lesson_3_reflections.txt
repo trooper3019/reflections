@@ -7,3 +7,12 @@ Q2: Why might you want to always pull changes manually rather than having Git au
 
 A2: Remote branches set up on GitHub may be modified by other users. Only desired changes can be saved on local branch by pulling manually vs automatically. 
 
+Q3: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A3: Branches are creating in local repos where changes are not made public on GitHub until pushed to remote w/ git push -n command.  
+
+	Clones are copies of remote repos into a PCs local repo. 
+
+	Forks are similar to clones in that they are copies of repos but only on GitHub. The fork is linked to the original repository and can be accessed by authorized collaborators which can allowed or requested via email or GH username. Additionally, the fork can be cloned locally. 
+
+	Forks are generally performed on existing projects that can potentially be merged into the original repository. 
