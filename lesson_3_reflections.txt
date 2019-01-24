@@ -1,4 +1,9 @@
-When would you want to use a remote repository rather than keeping all your work
+Q1: When would you want to use a remote repository rather than keeping all your work
 local?
 
-Remote repos allow for other users on github to view and/or collaborate with a particular project(s). 
+A1: Remote repos allow for other users on github to view and/or collaborate with a particular project(s). 
+
+Q2: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+A2: Remote branches set up on GitHub may be modified by other users. Only desired changes can be saved on local branch by pulling manually vs automatically. 
+
