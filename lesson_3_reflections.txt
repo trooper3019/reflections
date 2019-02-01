@@ -24,3 +24,7 @@ A4: Modifications made in subsequent versions can be seen and understood better.
 Q5: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 A5: Collaboration could occur through the internet via emails or blogs but also meeting in person. Git and GitHub certainly is more efficient overall. 
+
+Q6: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A6: Making changes in a separate branch allows for ideas to be looked at prior to making changes may or may not be suitable for the project on GitHub; also allowing the person or people making the changes to keep track of those changes locally. Whereas making direct changes to the master branch is much quicker but better suited for only certain types of changes that have been acceptable in previous commits. 
